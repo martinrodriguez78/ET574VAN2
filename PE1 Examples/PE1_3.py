@@ -1,0 +1,1 @@
+print ("a random qoute by a famous author to be reviewed by the teacher")
