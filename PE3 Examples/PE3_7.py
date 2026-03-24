@@ -1,9 +1,10 @@
 #A
+str0 = "py"
 print(str0[0])
 print(str0[-1])
 print(str0[:])
 print(str0[0], str0[-1],
-str0[:], sep = ' '
+str0[:], sep = ' ')
 
 #B
 print('C'[0])
@@ -13,7 +14,7 @@ print('C'[0], 'C'[-1],
 'C'[:], sep = '\t')
 
 #C
-str1 = “coDE”
+str1 = 'coDE'
 print(str1.capitalize()+'\n'+str1.upper()+'\n'+str1.lower())
 print(str1)
 
@@ -29,7 +30,7 @@ str3 = "mississippi"
 print("i =",str3.count('i'))
 print("s = index[", str3.find('s'), ']')
 print('p = ', str3.rfind('p'))
-print("Miss = ", str3.find("Miss")
+print("Miss = ", str3.find("Miss"))
 
 #F
 str4 = " Today's program "
@@ -50,7 +51,7 @@ print('Py', 'th', 'on', sep = '\n')
 print('tic', 'tac', 'toe', sep = '-', end = ' ')
 print("game starts", end = '!\n')
 print('in'.title(), 'person'.capitalize(), sep = '-', end = ' ')
-print('tutoring'.upper()
+print('tutoring'.upper())
 
 #J
 print("Number\tSquare")
