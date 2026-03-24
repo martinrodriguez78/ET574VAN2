@@ -7,5 +7,9 @@ final = "happily ever after."
 print("They lived " + final)
 
 #C 
-age = 20 
-print("I am  " + age + "years old.")
+#age = 20 
+#print("I am" + age + "years old.")
+
+#D
+#age = input("enter your age: ")
+#print("Next year you will be  " + (age+1))
