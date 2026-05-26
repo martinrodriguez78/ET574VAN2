@@ -12,7 +12,7 @@ class Patient:
         print(f"ID: PT-{self.Patient_id}")    # Prints ID 
         print(f"Diagnosis: {self.Patient_diagnosis}")  # Prints diagnosis
 
-#lines 15-19 satisfy q3
+
 # Create a patient object using the provided info
 #patient1 = Patient("paddington bear", "1088")
 patient2 = Patient("John Smith", "1025", "flu")
